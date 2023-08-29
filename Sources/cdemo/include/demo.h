@@ -1,0 +1,4 @@
+int pureC ();
+
+class Demo {
+};
